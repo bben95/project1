@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^2.1.9",
-    "cloudinary": "^2.5.0",
-    "graphql-request": "^7.1.0",
+    "@headlessui/react": "^2.2.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "cloudinary": "^2.5.1",
+    "graphql-request": "^7.1.2",
+    "jsonwebtoken": "^9.0.2",
     "next": "14.2.14",
-    "next-auth": "^4.24.8",
+    "next-auth": "^4.24.10",
     "react": "^18",
     "react-dom": "^18"
   },
